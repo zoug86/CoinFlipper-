@@ -1,0 +1,26 @@
+.Flip{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Flip-title{
+    font-size: 3rem;
+    
+}
+
+.Flip-button{
+    width: 5rem;
+    padding: 0.5rem 0;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: white;
+    margin: 1rem 0;
+    background-color: antiquewhite;
+}
+
+.Flip-text{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
